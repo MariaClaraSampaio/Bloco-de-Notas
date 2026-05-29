@@ -28,40 +28,8 @@
 ---
 
 
-## Backend
+<img src="images/logo.png" alt="Logo Blossom Notes" width="200">
 
-* Node.js
-* Express
-* SQLite3
-* JWT
-* bcryptjs
-
----
-
-# 📂 Estrutura do Projeto
-
-backend/
-├── src/
-│   ├── config/
-│   │   └── db.js
-│   ├── controllers/
-│   ├── routes/
-│   ├── middleware/
-│   └── server.js
-│
-├── .env
-├── package.json
-└── database.db
-
-frontend/
-├── css/
-├── js/
-├── videos/
-├── login.html
-├── register.html
-└── dashboard.html
-
----
 
 # ⚙️ Como Executar o Projeto
 
