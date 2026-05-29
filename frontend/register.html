@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  >
+
+  <title>Cadastro</title>
+
+  <link
+    rel="stylesheet"
+    href="css/style.css"
+  >
+
+</head>
+
+<body>
+
+  <video
+    autoplay
+    muted
+    loop
+    class="bg-video"
+  >
+    <source
+      src="videos/background.mp4"
+      type="video/mp4"
+    >
+  </video>
+
+  <div class="overlay"></div>
+
+  <div class="auth-page">
+
+    <div class="auth-card">
+
+      <div class="auth-logo">
+
+        <div class="logo-icon">
+          🌸
+        </div>
+
+        <h1>
+          Blossom Notes
+        </h1>
+
+      </div>
+
+      <p class="subtitle">
+        Crie sua conta
+      </p>
+
+      <input
+        id="name"
+        placeholder="Nome"
+      >
+
+      <input
+        id="email"
+        placeholder="Email"
+      >
+
+      <input
+        id="password"
+        type="password"
+        placeholder="Senha"
+      >
+
+      <button onclick="register()">
+        Cadastrar
+      </button>
+
+      <div
+        class="auth-link"
+        onclick="window.location.href='login.html'"
+      >
+        Já tenho conta
+      </div>
+
+    </div>
+
+  </div>
+
+  <script src="js/auth.js"></script>
+
+</body>
+
+</html>
