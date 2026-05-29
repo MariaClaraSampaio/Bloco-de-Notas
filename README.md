@@ -119,7 +119,7 @@ Aplicando os conhecimentos estudados durante a disciplina de Projeto Integrador.
 
 # 👨‍🏫 Professor
 
-Lucas
+Lucas Araújo
 
 ---
 
