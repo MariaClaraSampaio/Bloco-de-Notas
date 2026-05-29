@@ -27,8 +27,10 @@
 
 ---
 
+<p align="center">
+  <img src="EstruturaDePastas.png" alt="Logo Blossom Notes" width="800">
+</p>
 
-<img src="EstruturaDePastas.png" alt="Logo Blossom Notes" width="200">
 
 
 # ⚙️ Como Executar o Projeto
